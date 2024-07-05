@@ -1,0 +1,14 @@
+{
+  "target": {
+    "platform": "rp2040",
+    "arch": "pico"
+  },
+  "toolchain": {
+    "buildtool": "pico_sdk",
+    "param": {
+      "project": "ir_receiver_test",
+      "executable": "receiver_test_program"
+    }
+  },
+  "env":{}
+}

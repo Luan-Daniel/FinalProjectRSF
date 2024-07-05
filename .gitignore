@@ -2,3 +2,5 @@
 build/**
 gen/**
 trash/**
+
+.vscode/**

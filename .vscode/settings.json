@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.lpl": "json",
+    "nec_receive.h": "c",
+    "stdio.h": "c",
+    "nec_transmit.h": "c"
+  },
+  "raspberry-pi-pico.cmakePath": "cmake",
+  "raspberry-pi-pico.gitPath": "git",
+  "raspberry-pi-pico.python3Path": "python",
+  "raspberry-pi-pico.ninjaPath": "\"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/ninja/ninja.exe\""
+}

@@ -1,0 +1,62 @@
+### TEST 1 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Test finished, sending data
+> [Br]:348
+> [Bd]:274
+> [Bu]:28
+> [DeltaT]:00000000000025602301
+
+### TEST 2 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Ready to start a new test, press button to continue
+> [i] Clearing FIFO
+> [i] FIFO clear, now listening for new signals
+> [i] Test finished, sending data
+> [Br]:348
+> [Bd]:218
+> [Bu]:51
+> [DeltaT]:00000000000025602358
+
+### TEST 3 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Ready to start a new test, press button to continue
+> [i] Clearing FIFO
+> [i] FIFO clear, now listening for new signals
+> [i] Test finished, sending data
+> [Br]:376
+> [Bd]:290
+> [Bu]:30
+> [DeltaT]:00000000000025402333
+
+### TEST 4 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Ready to start a new test, press button to continue
+> [i] Clearing FIFO
+> [i] FIFO clear, now listening for new signals
+> [i] Test finished, sending data
+> [Br]:358
+> [Bd]:272
+> [Bu]:33
+> [DeltaT]:00000000000025400195
+
+### TEST 5 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Ready to start a new test, press button to continue
+> [i] Clearing FIFO
+> [i] FIFO clear, now listening for new signals
+!!! FAILED TO RECEIVE END SIGNAL
+!!! RESET
+
+### TEST 1 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Test finished, sending data
+> [Br]:356
+> [Bd]:294
+> [Bu]:29
+> [DeltaT]:00000000000025602357

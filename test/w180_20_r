@@ -1,0 +1,58 @@
+### TEST 1 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Clearing FIFO
+> [i] FIFO clear, now listening for new signals
+> [i] Test finished, sending data
+> [Br]:512
+> [Bd]:498
+> [Bu]:7
+> [DeltaT]:00000000000025602413
+
+### TEST 2 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Ready to start a new test, press button to continue
+> [i] Clearing FIFO
+> [i] FIFO clear, now listening for new signals
+> [i] Test finished, sending data
+> [Br]:508
+> [Bd]:498
+> [Bu]:7
+> [DeltaT]:00000000000025602301
+
+### TEST 3 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Ready to start a new test, press button to continue
+> [i] Clearing FIFO
+> [i] FIFO clear, now listening for new signals
+> [i] Test finished, sending data
+> [Br]:508
+> [Bd]:496
+> [Bu]:8
+> [DeltaT]:00000000000025602413
+
+### TEST 4 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Ready to start a new test, press button to continue
+> [i] Clearing FIFO
+> [i] FIFO clear, now listening for new signals
+> [i] Test finished, sending data
+> [Br]:510
+> [Bd]:498
+> [Bu]:7
+> [DeltaT]:00000000000025602301
+
+### TEST 5 ###
+
+[i] Waiting for read black board (receiver) output.
+> [i] Ready to start a new test, press button to continue
+> [i] Clearing FIFO
+> [i] FIFO clear, now listening for new signals
+> [i] Test finished, sending data
+> [Br]:512
+> [Bd]:496
+> [Bu]:8
+> [DeltaT]:00000000000025602414
